@@ -1286,6 +1286,10 @@ input, select, textarea {
 				color: #ffffff;
 			}
 
+			.poptrox-popup .caption i {
+				display: none;
+			}
+
 		.poptrox-popup .loader {
 			-moz-animation: spinner 1s infinite linear !important;
 			-webkit-animation: spinner 1s infinite linear !important;
@@ -1652,6 +1656,13 @@ input, select, textarea {
 				margin: 0;
 				position: absolute;
 				z-index: 1;
+			}
+
+			#main .thumb > i {
+				position: absolute;
+				top: 2%;
+  			left: 93%;
+				color: #505051;
 			}
 
 			#main .thumb > p {
