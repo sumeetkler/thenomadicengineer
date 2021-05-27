@@ -1660,9 +1660,10 @@ input, select, textarea {
 
 			#main .thumb > i {
 				position: absolute;
-				top: 2%;
-  			left: 93%;
-				color: #505051;
+				top: 10px;
+  			right: 10px;
+				text-shadow: 0 0 5px #000;
+				color:white;
 			}
 
 			#main .thumb > p {
