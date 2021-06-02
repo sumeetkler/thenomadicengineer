@@ -1,0 +1,13 @@
+{
+  "name": "The Nomadic Engineer",
+  "short_name": "The Nomadic Engineer",
+  "icons": [
+    {
+      "src": "images/logo/google_touch_icon.png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "fullscreen"
+}
